@@ -1,4 +1,4 @@
-# 
+# Ứng dụng quản lý gửi mail 
 
 <a target="_blank" href=""><img src="" alt="" /></a>
 
@@ -12,13 +12,13 @@
 Đầu tiên, tải repository về máy tính:
 
 ```bash
-$ git clone 
+$ git clone https://github.com/batTrung/mailApp.git
 ```
 
 Cài đặt requirements:
 
 ```bash
-$ cd myproject-django
+$ cd mailApp 
 $ source env/bin/activate
 ```
 
